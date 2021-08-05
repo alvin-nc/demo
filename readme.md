@@ -1,0 +1,20 @@
+    - java.text.MessageFormat : 按照模板，格式化字符串。
+    - java.util.Optional : 对象判空和给默认值的优雅写法。
+    - java.util.concurrent.CountDownLatch : 并发控制器
+    - java.math.BigDecimal : 商业计算，精度无损
+    - AQS使用
+    - EnableAsync
+    - EnableWebMvc
+    - ServletComponentScan
+    - ComponentScan
+    - PropertySource
+    - ImportResource
+    - mysql syntax
+        - interval (now() - interva(5) day)
+        - case when a=b then 1 when c=b then 2 eles 3 end
+        - union [all] 连接两个select语句
+        - limit offset
+        - str_to_date
+    - google guaua
+    - pinyin4j
+    - java.util.local
